@@ -16,11 +16,11 @@ Achieving high accuracy with proper validation, the model demonstrates how neura
 
 ## 📌 Project Overview
 
-- ** Dataset**: Breast Cancer Wisconsin Diagnostic Data (from `sklearn.datasets`)
-- ** Frameworks Used**: TensorFlow, Keras, Scikit-learn
-- ** Objective**: Classify tumor as `Malignant (1)` or `Benign (0)`
+- **Dataset**: Breast Cancer Wisconsin Diagnostic Data (from `sklearn.datasets`)
+- **Frameworks Used**: TensorFlow, Keras, Scikit-learn
+- **Objective**: Classify tumor as `Malignant (1)` or `Benign (0)`
 - **⚙ Model Used**: Fully Connected Neural Network
-- ** Final Accuracy**:
+- **Final Accuracy**:
   - **Train Accuracy**: `99.56%`
   - **Test Accuracy**: `98.25%`
   - **Test Confusion Matrix**:
